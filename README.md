@@ -1,2 +1,1 @@
-# HackTech.github.io
-index.html
+# HackTech
